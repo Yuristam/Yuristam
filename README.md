@@ -10,8 +10,8 @@
 
 <div align="center">
   
-  <img align="right" width="17%" src="https://github.com/Yuristam/Yuristam/assets/109821350/f86d996b-1afc-4877-b330-ec2f3a24a380">
-  
+  <img align="right" width="17%" src="https://github.com/Yuristam/Yuristam/assets/109821350/5a4e8098-cb55-483c-990b-5fd2266437bc">
+
   <!-- Introduction -->
   <pre align="center">
     👨‍💻 I am a backend .NET Developer 
@@ -21,7 +21,7 @@
     🎮 I'm into games, programming, sport and technologies
   </pre>
 
-  <img align="center" width="50" src="https://github.com/Yuristam/Yuristam/assets/109821350/ac99bc35-8811-4b6f-b4df-e3b111fc0ba8">
+  <img align="center" width="50" src="https://github.com/Yuristam/Yuristam/assets/109821350/d36d1562-ea6c-4c48-866f-83c9035e5290">
 
 </div>
 
@@ -59,12 +59,12 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=yuristam&show_icons=true&locale=en&layout=compact"
       alt="yuristam" />
 
-  <img align="center" src="https://github.com/Yuristam/Yuristam/assets/109821350/06c1c6f7-67da-4a8d-aa91-a4a11294c579"
+  <img align="center" src="https://github.com/Yuristam/Yuristam/assets/109821350/f2a3e115-7fbb-4086-a2e6-908315ee14b8"
       alt="skills" height="150" />
   <br />
   <h4 align="center">💥 Learning 💥</h4>
 
-  <img align="center" src="https://github.com/Yuristam/Yuristam/assets/109821350/fee68fee-1aa0-4943-9d6a-ede9e3627cf8"
+  <img align="center" src="https://github.com/Yuristam/Yuristam/assets/109821350/adc63093-7c92-4221-bf67-c27c63a43fae"
       alt="learning" height="65" />
 
 </div>
