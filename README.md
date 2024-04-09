@@ -41,7 +41,7 @@
             align="center" src="https://images.template.net/76792/Free-Instagram-Icon-Vector.jpg" alt="instagram"
             height="50" width="50" /></a>
     <!-- Telegram -->
-    <a href="https://t.me/fjfjjfjfjfjfjfjfjjjfjfjfjfj" target="blank"><img align="center"
+    <a href="https://t.me/asana_kun" target="blank"><img align="center"
             src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png"
             alt="telegram" height="50" width="50" /></a>
 </p>
