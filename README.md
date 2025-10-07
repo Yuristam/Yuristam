@@ -34,7 +34,7 @@
 
 <p align="center">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/levi-ackerman/" target="blank"><img align="center"
+    <a href="www.linkedin.com/in/asanakunov" target="blank"><img align="center"
             src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin" height="50" width="50" /></a>
     <!-- Instagram -->
     <a href="https://www.instagram.com/_asnkunvyu_?utm_source=qr&igsh=mwz4cm9oywl4agl4ag==" target="blank"><img
