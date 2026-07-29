@@ -48,29 +48,6 @@
 
 ---
 
-<!-- Languages & Tools -->
-<div align="center">
-
-  <h3 align="center">🔥 Languages-Frameworks-Tools 🔥</h3>
-  <br />
-
-  <!-- GitHub Statistics -->
-  <img align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=yuristam&show_icons=true&locale=en&layout=compact"
-      alt="yuristam" />
-
-  <img align="center" src="https://github.com/Yuristam/Yuristam/assets/109821350/f2a3e115-7fbb-4086-a2e6-908315ee14b8"
-      alt="skills" height="150" />
-  <br />
-  <h4 align="center">💥 Learning 💥</h4>
-
-  <img align="center" src="https://github.com/Yuristam/Yuristam/assets/109821350/adc63093-7c92-4221-bf67-c27c63a43fae"
-      alt="learning" height="65" />
-
-</div>
-
----
-
 <!-- Snake Game -->
 <div align="center">
 
