@@ -15,7 +15,7 @@
   <!-- Introduction -->
   <pre align="center">
     👨‍💻 I am a backend .NET Developer 
-    with 1 year of experience 
+    with 3 year of experience 
     working on Scrum and Agile ASP.NET projects.
     💻 I love to learn new technologies and frameworks.
     🎮 I'm into games, programming, sport and technologies
